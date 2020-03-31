@@ -10,5 +10,5 @@
 * [Offical mirror](http://mirrors.kodi.tv/releases/)
 * [china mirror](https://mirrors.tuna.tsinghua.edu.cn/kodi/releases/)
 
-#### If you want to submit a new mirror,submit a issue in [issuetracker(now unavailble) ]() .
+#### If you want to submit a new mirror,submit a issue in [issuetracker](https://github.com/sysdl132/issuetracker) .
 #### If you have an idea please send it to original's [issuetracker](https://github.com/xbmc/xbmc/issues) .
