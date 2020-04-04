@@ -1,3 +1,5 @@
+Warning:  ![img](https://img.shields.io/github/repo-size/sysdl132/xbmc)
+---------------
 ![Kodi Logo](docs/resources/banner.png)
 
 <p align="center">
